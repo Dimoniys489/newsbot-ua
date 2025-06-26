@@ -1,4 +1,5 @@
 aiohttp>=3.9.0
 pydantic==1.10.12
 feedparser==6.0.11
+aiogram==3.0.0b7
 
